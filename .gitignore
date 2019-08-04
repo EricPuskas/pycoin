@@ -1,0 +1,9 @@
+blockchain-5000.txt
+blockchain-5001.txt
+blockchain-5002.txt
+wallet-5000.txt
+wallet-5001.txt
+wallet-5002.txt
+__pycache__
+.DS_Store
+OLD_node.py
